@@ -1,4 +1,4 @@
-# Tableau-Dashboard-2019-
+# Tableau-Dashboard (2019 version Tableau)
 <img width="1197" height="776" alt="image" src="https://github.com/user-attachments/assets/b1ab61e5-2247-4947-9af8-c4f39b8351c1" />
 <img width="1487" height="849" alt="image" src="https://github.com/user-attachments/assets/8d1a24e2-e9d9-4e97-b1db-8aff9ecec18e" />
 This interactive Tableau dashboard provides a comprehensive overview of sales performance in 2021.
