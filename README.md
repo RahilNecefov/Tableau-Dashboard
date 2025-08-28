@@ -10,7 +10,7 @@ Weekly Trend Analysis: Dual-axis line charts tracking weekly sales and profit tr
 Year Filter: A drop-down selector to dynamically view data for a chosen year.
 
 
-**Key Insights**
+#**Key Insights**
 Quickly identify top- and low-performing subcategories.
 Monitor seasonal and weekly fluctuations in sales and profit.
 Compare current performance against the previous year.
